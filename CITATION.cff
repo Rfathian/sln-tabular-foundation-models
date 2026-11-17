@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the repository and the 2024 study it builds on."
+title: "Tabular foundation models for preoperative prediction of sentinel lymph node metastasis in breast cancer: results page"
+type: dataset
+authors:
+  - family-names: Fathian
+    given-names: Ramin
+    affiliation: University of Alberta
+date-released: 2026-11-17
+license: CC-BY-4.0
+repository-code: https://github.com/Rfathian/sln-tabular-foundation-models
+references:
+  - type: article
+    title: "Prediction of sentinel lymph node metastasis in breast cancer patients based on preoperative features: a deep learning approach"
+    authors:
+      - family-names: Shahriarirad
+        given-names: Reza
+      - family-names: Meshkati Yazd
+        given-names: Seyed Mostafa
+      - family-names: Fathian
+        given-names: Ramin
+      - family-names: Fallahi
+        given-names: Mohammadmehdi
+      - family-names: Ghadiani
+        given-names: Zahra
+      - family-names: Nafissi
+        given-names: Nahid
+    journal: Scientific Reports
+    volume: 14
+    year: 2024
+    start: 1351
+    doi: 10.1038/s41598-024-51244-y

@@ -1,0 +1,43 @@
+{
+ "catboost_mean_abs_shap": {
+  "age_years": 0.033,
+  "family_history": 0.032,
+  "children_n": 0.0086,
+  "first_pregnancy_age": 0.0077,
+  "lactation_months": 0.023,
+  "ocp_years": 0.0288,
+  "abortion_n": 0.0076,
+  "er_positive": 0.0257,
+  "pr_positive": 0.0465,
+  "her2_positive": 0.0149,
+  "ki67_percent": 0.0405,
+  "histology": 0.1532,
+  "cnb_malignant": 0.0402,
+  "multicentric": 0.014,
+  "lymphovascular_invasion": 0.7701,
+  "bilateral": 0.0005,
+  "tumor_size_cm": 0.2051,
+  "dcis_percent": 0.1597
+ },
+ "tabpfn_permutation_auc_drop": {
+  "age_years": 0.0005453634085214043,
+  "family_history": 8.621553884716749e-05,
+  "children_n": 2.005012531338668e-05,
+  "first_pregnancy_age": 1.2030075188074196e-05,
+  "lactation_months": 0.0027739348370928174,
+  "ocp_years": -0.001577944862155245,
+  "abortion_n": -0.002249624060150257,
+  "er_positive": 0.0006536340852131173,
+  "pr_positive": 0.0024300751879700487,
+  "her2_positive": 0.0008822055137845842,
+  "ki67_percent": -0.0014917293233081886,
+  "histology": 0.032908270676691845,
+  "cnb_malignant": 8.62155388472452e-05,
+  "multicentric": 0.0011909774436091093,
+  "lymphovascular_invasion": 0.11752180451127829,
+  "bilateral": 9.824561403518617e-05,
+  "tumor_size_cm": 0.027955889724310866,
+  "dcis_percent": 0.012964411027569057
+ },
+ "tabpfn_holdout_auc": 0.7202807017543861
+}

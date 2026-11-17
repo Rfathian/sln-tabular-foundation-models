@@ -1,0 +1,19 @@
+# Patient-level data and per-patient predictions are never committed
+data/
+results/preds/
+*.xlsx
+*.sav
+*_deid*.csv
+tehran_*.csv
+
+# Logs, caches, build artefacts
+catboost_info/
+*.log
+*_log.txt
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Manuscript drafts
+paper/
